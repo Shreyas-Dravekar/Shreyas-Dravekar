@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shreyas-Dravekar
 - 👀 I’m interested in web development, cybersecurity, and full stack applications.
-- 🌱 I’m currently learning JavaScript, C++, and Java (Brushing up on C++ and Java)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript, Python, C++, and Java (Brushing up on C++ and Java)
+- 💞️ I’m looking to collaborate on any web development, cybersecurity, and full stack applications
 - 📫 How to reach me - shreyas.dravekar@gmail.com
 
 <!---
